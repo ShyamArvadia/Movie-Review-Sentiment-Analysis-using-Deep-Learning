@@ -1,14 +1,5 @@
 # Movie-Review-Sentimental-Analysis-Using-RNN-and-LSTM
 
-CONTRIBUTING MEMBERS - 
-
-Kaushil Mangaroliya -@kaushil268
-
-Mitt Shah - @mittshah2
-
-Maharsh Shah
-
-
 
 This is a full guide and explaination of the the project named Movie Review Sentimental Analysis . 
 
